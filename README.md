@@ -29,5 +29,5 @@
 
 ![Concurrency and Deadlock](https://user-images.githubusercontent.com/71542496/115654946-d074ee00-a34f-11eb-989a-c32e495a15cc.JPG)
 
-### Please refer to the README.pdf of each. You can find that in the respective folder. 
+### Please refer to the README.pdf of each to run the application. You can find that in the respective folder. 
 
